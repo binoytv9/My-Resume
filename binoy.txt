@@ -1,0 +1,113 @@
+﻿BINOY T V
+
+Thottekkatte (H), Puranattukara P O, Thrissur, Kerala, 680551, India
+ 8943045653    binoytv9@gmail.com
+https://github.com/binoytv9
+
+
+[SUMMARY]
+Electronics Engineer passionate about Programming. Currently learning C, Python, etc by reading books, writing code and participating in MOOC’s. Looking forward to work with a team of enthusiastic programmers preferably on Linux/Open Source based technologies.
+Education
+	Government Engineering College, Palakkad, Kerala
+	B.Tech in Electronics and Communication Engineering,
+	2010 – 14 Batch
+
+Technical Skills
+	Languages	: C, Python, Exposure to JavaScript, Lisp(Scheme), Haskell
+
+	Operating 
+	Systems	: Linux, Windows
+
+	Version 
+	control	: Git
+
+
+[ONLINE COURSES]
+Participated in “MITx 6.00.1x Introduction To Computer Science and Programming Using Python” from MITx (Edx)”. The objective of the course was to teach basic ideas of computer science and software engineering using Python programming language. It was a nice opportunity to learn Python together with some computer science aspects from one of the best universities in the world.
+Certificate: http://goo.gl/nirlmA
+
+
+[LEARNING ACTIVITIES]
+Implemented simple UNIX commands in C
+https://github.com/binoytv9/implementation-of-simple-unix-commands
+
+Introduction to XML
+https://github.com/binoytv9/eXtensible-Markup-Language-intro
+
+Implemented some examples of “The Little Book Of Semaphores” by Allen B Downey in C using pthread and semaphore
+https://github.com/binoytv9/the-little-book-of-semaphores-by-Allen-B-Downey
+
+Introduction to Linux Threads
+https://github.com/binoytv9/linux-threads
+
+Experimented with ptrace system call
+https://github.com/binoytv9/experimenting-with-ptrace-system-call
+
+Unix Inter Process Communication
+https://github.com/binoytv9/Unix-Inter-Process-Communication
+
+A simple full duplex chat program using the select system call in C
+https://github.com/binoytv9/chat-using-select-system-call
+
+A simple half duplex chat program using UDP in C
+https://github.com/binoytv9/simple-udp-chat-program
+
+A simple HTTP server in C
+https://github.com/binoytv9/simple-http-server
+
+Network Programming basics:Client-Server communication using UDP and TCP
+https://github.com/binoytv9/Network-Programming
+
+Implemented a toy Unix shell using C and Python
+https://github.com/binoytv9/a-simple-Unix-Shell
+
+Read parts of the book “The Linux Programming Interface” by Michael Kerrisk and worked out its examples and exercises
+https://github.com/binoytv9/The-Linux-Programming-Interface-by-Michael-Kerrisk
+
+Implemented a simple logic circuit simulation (Part One & Two) program in C and JavaScript
+https://github.com/binoytv9/Logic-Circuits-in-C
+https://github.com/binoytv9/Logic-Circuits-in-javaScript
+
+Read the book “Eloquent JavaScript” by Marijn Haverbeke and worked out its examples and exercises
+https://github.com/binoytv9/eloquent-javascript
+
+Read “Dive into Python” and solved its examples and exercises
+https://github.com/binoytv9/dive-into-python
+
+Studied Python code for Lisp Interpreter by Peter Norvig (link) and converted it into C
+https://github.com/binoytv9/lisp-interpreter-in-c
+
+Studied Scheme from "Structure and Interpretation of Computer Programs"
+https://github.com/binoytv9/sicp-solutions
+
+Read “Think Python” and solved its examples and exercises
+https://github.com/binoytv9/Think-Python-by-Allen-B-Downey--Exercises
+
+Worked out the exercises and sample code provided in the “Google’s Python Class”
+https://github.com/binoytv9/google-python-exercises
+
+Studied the book "Problem Solving with Algorithms and Data Structures” and solved its exercises
+https://github.com/binoytv9/problem-solving-with-algorithms-and-data-structures
+
+Studied the Python code for Huffman Data Compression (link) and converted it into C
+https://github.com/binoytv9/huffman-data-compression-in-c
+
+Studied the Python code for “Water bucket problem” (link) and converted it into C
+https://github.com/binoytv9/water-bucket-problems-in-c
+
+Converted the “Log Puzzle” exercise in Google’s Python Class into C
+https://github.com/binoytv9/log-puzzle-in-c
+
+Read the “Python Practice Book” (link) and solved its exercises
+https://github.com/binoytv9/python-anandology
+
+Solved the Stanford CS library linked list (doc #103 & #105) problems in C
+https://github.com/binoytv9/linked-list-cslibrary.stanford.edu-doc-103-and-105
+
+Solved the Stanford CS library Binary Tree (doc #110) exercises in both C and Python
+https://github.com/binoytv9/binary-trees-cslibrary.stanford.edu-doc-110
+https://github.com/binoytv9/binary-trees-cslibrary.stanford.edu-110-in-python
+
+Worked out the sample code and the solved the exercises in K&R
+https://github.com/binoytv9/the-c-programming-language-Ritchie-Kernighan
+
